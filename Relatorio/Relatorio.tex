@@ -1,0 +1,193 @@
+\documentclass[a4paper]{article}
+% Pacotes necessários
+\usepackage[portuguese]{babel}
+\usepackage[backend=biber, style=apa, citestyle=apa, language=portuguese]{biblatex}
+\usepackage{csquotes}
+\addbibresource{Recursos/referencias.bib}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{setspace}
+\usepackage{siunitx} % Required for alignment
+\sisetup{
+  round-mode          = places, % Rounds numbers
+  round-precision     = 2, % to 2 places
+}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{karnaugh-map}
+\usepackage[section]{placeins}
+\usepackage{geometry}
+\usepackage{amssymb}
+\usepackage{titling}
+\usepackage[T1]{fontenc}
+\usepackage{float}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{indentfirst}
+\usepackage{array}
+\usepackage{soul}
+\usepackage{afterpage}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\onehalfspacing
+
+
+% Comando para criar uma página vazia
+\newcommand\myemptypage{
+    \null
+    \thispagestyle{empty}
+    \addtocounter{page}{-1}
+    \newpage
+}
+
+% Página de título principal
+\newcommand{\firsttitlepage}{
+    \begin{titlepage}
+        \centering
+        \vspace*{1cm}
+        
+        % Logos superior
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=6cm]{Recursos/LOGO_IPB} % Substitua pelo caminho da imagem
+            \vspace{0.5cm}
+        \end{figure}
+
+        % Informações da instituição
+        \large\textbf{INSTITUTO POLITÉCNICO DE BEJA} \\
+        \large\textbf{Escola Superior de Tecnologia e Gestão} \\
+        \large\textbf{Licenciatura em Engenharia Informática} \\
+        \large\textbf{Regulação Informática} \\
+        
+        \vspace{2cm}
+        
+        % Título do projeto
+        {\Huge \textbf{Caso 1}} \\
+        
+        \vspace{1.5cm}
+        
+        % Autores
+        \large Paulo António Tavares Abade - 23919 \\
+        
+        \vfill
+        
+        % Logo inferior
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=6cm]{Recursos/IPBejaESTIG.jpg} % Substitua pelo caminho da imagem
+        \end{figure}
+        
+        \vspace{1cm}
+        
+        % Local e data
+        {\large Beja, abril de 2025}
+    \end{titlepage}
+}
+
+\newcommand{\secondtitlepage}{
+    \begin{titlepage}
+        \centering
+        \vspace*{1cm}
+        
+        % Informações da instituição
+        \large\textbf{INSTITUTO POLITÉCNICO DE BEJA} \\
+        \large\textbf{Escola Superior de Tecnologia e Gestão} \\
+        \large\textbf{Licenciatura em Engenharia Informática} \\
+        \large\textbf{Regulação Informática} \\
+        
+        \vspace{2cm}
+        
+        % Título do projeto
+        {\Huge \textbf{Caso 1}} \\
+        
+        \vspace{1.5cm}
+        
+        % Autores
+        \large Paulo António Tavares Abade - 23919 \\
+
+        \vspace{2cm}
+
+        % Orientador
+        \large Orientador: Manuel David Rodrigues Masseno \\
+        
+        \vfill
+        
+        % Local e data
+        {\large Beja, abril de 2025}
+    \end{titlepage}
+}
+
+\begin{document}
+
+
+\pagenumbering{gobble} % Oculta numeração da página
+
+% Primeira página de título
+\firsttitlepage
+
+\secondtitlepage
+
+
+% Abstract
+\section*{\LARGE\textbf{\textit{Resumo}}}
+
+Resposta ao Caso 1 da disciplina de Regulação Informática, onde foi necessário analisar informação...
+
+
+\vspace{1cm}
+% Keywords
+\textbf{Keywords:} rgdp
+\newpage
+%--------------------------------------------------------------------------------------------------------------------------------------
+
+\section*{\LARGE\textbf{\textit{Abstract}}}
+
+Response to Case 1 of the discipline of Computer Regulation, where it was necessary to analyze information...
+
+
+
+
+\vspace{1cm}
+% Keywords
+\textbf{Keywords:} rgdp
+\renewcommand{\contentsname}{Índice}       % Título do sumário
+\renewcommand{\listfigurename}{Índice de Figuras} % Título da lista de figuras
+
+% Início do conteúdo do relatório
+\newpage
+\doublespacing
+\tableofcontents
+\listoffigures
+\doublespacing
+
+\newpage
+\pagenumbering{arabic}
+
+\section{Introdução}\label{intro}
+Alguma coisa sobre o trabalho, o que foi feito, o que foi analisado, etc.
+%---------------------------------------------------------------------------------------------------------------------------
+------
+\section{Desenvolvimento}\label{etl}
+O trabalho de ETL foi realizado em 3 fases, a primeira foi a extração dos dados, 
+a segunda a transformação e por fim a inserção dos dados em tabelas dinâmicas para 
+facilitar a visualização dos dados ao visualizador.
+\newpage
+
+%---------------------------------------------------------------------------------------------------------------------------
+\section{Conclusão}\label{con}
+Estas Crises Petrolíferas fizeram com que os fabricantes de automóveis tivessem de se adaptar e produzir carros mais eficientes, estas adaptações para 
+veiculos americanos foram dificeis, cujos quais eram conhecidos por serem grandes e terem motores grandes que gastam muito combustível,
+tiveram a sua potencia drasticamente diminuida ao ponto dos modelos desportivos serem considerados muito lentos para a sua categoria.
+Os japoneses aproveitaram a situação pois já produziam carros mais pequenos e eficientes e decidiram começar a vender mais no mercado americano,
+aumentando a sua quota de mercado significativamente.
+%---------------------------------------------------------------------------------------------------------------------------
+
+\newpage
+\renewcommand{\refname}{Bibliografia} % Para artigos
+\renewcommand{\bibname}{Bibliografia} % Para livros e relatórios
+\addcontentsline{toc}{section}{Bibliografia} % Adiciona a Bibliografia ao índice
+\printbibliography
+
+\end{document}
