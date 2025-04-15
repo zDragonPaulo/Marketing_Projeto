@@ -19,6 +19,39 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{googlehome}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Software que pode ser compatível - Google Home}
+      \field{title}{Google Home}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://home.google.com/welcome/
+      \endverb
+      \verb{url}
+      \verb https://home.google.com/welcome/
+      \endverb
+    \endentry
     \entry{discord}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ad8721e808226e696ca783562850b787}{%
@@ -83,6 +116,39 @@
       \endverb
       \verb{url}
       \verb https://chatgpt.com
+      \endverb
+    \endentry
+    \entry{smartthings}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3910b1e0ccab19bc46fd9db27cca49c9}{%
+           family={Samsung},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{fullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{bibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorbibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authornamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorfullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Software que pode ser compatível - SmartThings}
+      \field{title}{SmartThings}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.samsung.com/pt/apps/smartthings/
+      \endverb
+      \verb{url}
+      \verb https://www.samsung.com/pt/apps/smartthings/
       \endverb
     \endentry
     \entry{tplink}{online}{}
@@ -186,6 +252,39 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{googlehome}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Software que pode ser compatível - Google Home}
+      \field{title}{Google Home}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://home.google.com/welcome/
+      \endverb
+      \verb{url}
+      \verb https://home.google.com/welcome/
+      \endverb
+    \endentry
     \entry{discord}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ad8721e808226e696ca783562850b787}{%
@@ -250,6 +349,39 @@
       \endverb
       \verb{url}
       \verb https://chatgpt.com
+      \endverb
+    \endentry
+    \entry{smartthings}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3910b1e0ccab19bc46fd9db27cca49c9}{%
+           family={Samsung},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{fullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{bibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorbibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authornamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorfullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Software que pode ser compatível - SmartThings}
+      \field{title}{SmartThings}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.samsung.com/pt/apps/smartthings/
+      \endverb
+      \verb{url}
+      \verb https://www.samsung.com/pt/apps/smartthings/
       \endverb
     \endentry
     \entry{tplink}{online}{}

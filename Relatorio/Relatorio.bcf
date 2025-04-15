@@ -3064,6 +3064,8 @@
     <bcf:citekey order="3" intorder="1">chatgpt</bcf:citekey>
     <bcf:citekey order="4" intorder="1">tplink</bcf:citekey>
     <bcf:citekey order="5" intorder="1">xiaomi</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">smartthings</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">googlehome</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
