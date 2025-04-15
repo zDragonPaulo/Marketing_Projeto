@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Relatorio"] 1744646303.12867 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1744648141.0379 0
-  "Recursos/referencias.bib" 1744645960 1196 525542e0f452cba7157ca3d4525bc9d6 ""
-  "Relatorio.bcf" 1744648140 133072 5420a0253a101a5760d7ed1620d0986d "pdflatex"
+["biber Relatorio"] 1744726651.31027 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1744727923.01665 0
+  "Recursos/referencias.bib" 1744726649 1702 5b73f76db78a88bd7cfedf08f6f7ef2a ""
+  "Relatorio.bcf" 1744727922 133194 25e0700fdbf76f6d971c7448cd920eb2 "pdflatex"
   (generated)
   "Relatorio.bbl"
   "Relatorio.blg"
   (rewritten before read)
-["pdflatex"] 1744648138.35759 "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatorios-Trabalhos/3ano/2º Semestre/Marketing/Marketing_Projeto/Relatorio/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1744648141.03921 0
+["pdflatex"] 1744727920.12219 "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatorios-Trabalhos/3ano/2º Semestre/Marketing/Marketing_Projeto/Relatorio/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1744727923.0182 0
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738945637 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1728.pk" 1729788146 71788 fadac5b10a57dfceb3a69ca95451187c ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1729788150 25420 a2ba52055e72da8a9dca104ed6a96641 ""
@@ -210,14 +210,14 @@
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "Recursos/IPBejaESTIG.jpg" 1729007317 24524 8256cc09fbb9140893a7ec292a0eb389 ""
   "Recursos/LOGO_IPB.png" 1729007317 70931 8e4fd2cd3676e6d3adc0f137d7334c9f ""
-  "Relatorio.aux" 1744648140 2506 dad7bb516f69541e84a8b69ad084d7ea "pdflatex"
-  "Relatorio.bbl" 1744646305 8523 56b30f1423aee0417fc2e4e85577adb8 "biber Relatorio"
-  "Relatorio.lof" 1744648140 33 e37f84d12b50aa32dade73d7d1c52b61 "pdflatex"
-  "Relatorio.out" 1744648140 1153 5b900d57b68f22fc7069591de0d1b57f "pdflatex"
-  "Relatorio.run.xml" 1744648140 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
-  "Relatorio.tex" 1744648137 9925 3aea96d9af9e6283d5a05c377e81a211 ""
-  "Relatorio.toc" 1744648140 710 297fc8ae51ebadb286984175ee1fae5a "pdflatex"
-  "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatorios-Trabalhos/3ano/2º Semestre/Marketing/Marketing_Projeto/Relatorio/Relatorio.tex" 1744648137 9925 3aea96d9af9e6283d5a05c377e81a211 ""
+  "Relatorio.aux" 1744727922 6252 ce95930a4b77f40f36871eef4866eed1 "pdflatex"
+  "Relatorio.bbl" 1744726654 13867 183b16e0089f8bd4700dd28b9e76dc0d "biber Relatorio"
+  "Relatorio.lof" 1744727922 33 e37f84d12b50aa32dade73d7d1c52b61 "pdflatex"
+  "Relatorio.out" 1744727922 3938 18206899063697cf56b8f401f542ed77 "pdflatex"
+  "Relatorio.run.xml" 1744727922 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
+  "Relatorio.tex" 1744727917 14735 0a1cf970d48ec6fe6c9f8ab75c4456f8 ""
+  "Relatorio.toc" 1744727922 2171 d6e71f879dec67f865b35c5af304fad6 "pdflatex"
+  "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatorios-Trabalhos/3ano/2º Semestre/Marketing/Marketing_Projeto/Relatorio/Relatorio.tex" 1744727917 14735 0a1cf970d48ec6fe6c9f8ab75c4456f8 ""
   (generated)
   "Relatorio.aux"
   "Relatorio.bcf"

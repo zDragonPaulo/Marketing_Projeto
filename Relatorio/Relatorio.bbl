@@ -85,6 +85,39 @@
       \verb https://chatgpt.com
       \endverb
     \endentry
+    \entry{tplink}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a6fc4549378275a7f9c28d65525df68}{%
+           family={TP-Link},
+           familyi={T\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{fullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{bibnamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorbibnamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authornamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorfullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Produto Concorrente - TP-Link}
+      \field{title}{TP-Link}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
+      \endverb
+      \verb{url}
+      \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
+      \endverb
+    \endentry
     \entry{SCRUM}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
@@ -116,6 +149,39 @@
       \endverb
       \verb{url}
       \verb https://en.wikipedia.org/wiki/Scrum_(software_development)
+      \endverb
+    \endentry
+    \entry{xiaomi}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=516581a2ce920b9bc16a9c5004a023b8}{%
+           family={Xiaomi},
+           familyi={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{fullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{bibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorbibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authornamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorfullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Produto Concorrente - Xiaomi}
+      \field{title}{Xiaomi}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mi.com/global/product/xiaomi-smart-plug-2-wi-fi/
+      \endverb
+      \verb{url}
+      \verb https://www.mi.com/global/product/xiaomi-smart-plug-2-wi-fi/
       \endverb
     \endentry
   \enddatalist
@@ -186,6 +252,39 @@
       \verb https://chatgpt.com
       \endverb
     \endentry
+    \entry{tplink}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a6fc4549378275a7f9c28d65525df68}{%
+           family={TP-Link},
+           familyi={T\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{fullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{bibnamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorbibnamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authornamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorfullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Produto Concorrente - TP-Link}
+      \field{title}{TP-Link}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
+      \endverb
+      \verb{url}
+      \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
+      \endverb
+    \endentry
     \entry{SCRUM}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
@@ -217,6 +316,39 @@
       \endverb
       \verb{url}
       \verb https://en.wikipedia.org/wiki/Scrum_(software_development)
+      \endverb
+    \endentry
+    \entry{xiaomi}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=516581a2ce920b9bc16a9c5004a023b8}{%
+           family={Xiaomi},
+           familyi={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{fullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{bibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorbibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authornamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorfullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Produto Concorrente - Xiaomi}
+      \field{title}{Xiaomi}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mi.com/global/product/xiaomi-smart-plug-2-wi-fi/
+      \endverb
+      \verb{url}
+      \verb https://www.mi.com/global/product/xiaomi-smart-plug-2-wi-fi/
       \endverb
     \endentry
   \enddatalist

@@ -5,6 +5,21 @@
 \contentsline {subsection}{\numberline {2.2}Separação de Tarefas}{1}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Desenho do Produto}{2}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Funcionalidades do Produto}{2}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}}{3}{subsection.2.5}%
-\contentsline {section}{\numberline {3}Conclusão}{4}{section.3}%
-\contentsline {section}{Bibliografia}{5}{section.3}%
+\contentsline {subsubsection}{\numberline {2.4.1}Vantagens do Produto}{3}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Desvantagens do Produto}{3}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Mercado do Produto}{3}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Público Alvo}{3}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Dimensão e Potencial do Crescimento}{4}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Possíveis Concorrentes}{4}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.6}Meio Envolvente}{4}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Ameaças e Oportunidades}{4}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Cenários Futuros e Tendências}{4}{subsubsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.7}Exequibilidade do Marketing}{4}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Posicionamento}{4}{subsubsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}Mix de Produto}{4}{subsubsection.2.7.2}%
+\contentsline {subsubsection}{\numberline {2.7.3}Mix de Preço}{4}{subsubsection.2.7.3}%
+\contentsline {subsubsection}{\numberline {2.7.4}Mix de Canais de Distribuição}{4}{subsubsection.2.7.4}%
+\contentsline {subsubsection}{\numberline {2.7.5}Mix de Comunicação}{4}{subsubsection.2.7.5}%
+\contentsline {subsubsection}{\numberline {2.7.6}Previsão de Vendas}{4}{subsubsection.2.7.6}%
+\contentsline {section}{\numberline {3}Conclusão}{5}{section.3}%
+\contentsline {section}{Bibliografia}{6}{section.3}%
