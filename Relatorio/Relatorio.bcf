@@ -3077,7 +3077,8 @@
     <bcf:citekey order="5" intorder="1">xiaomi</bcf:citekey>
     <bcf:citekey order="6" intorder="1">smartthings</bcf:citekey>
     <bcf:citekey order="7" intorder="1">googlehome</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">smartthings</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">kaizen</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">smartthings</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

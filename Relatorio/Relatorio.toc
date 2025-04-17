@@ -21,14 +21,15 @@
 \contentsline {subsubsection}{\numberline {2.7.4}Mix de Canais de Distribuição}{5}{subsubsection.2.7.4}%
 \contentsline {subsubsection}{\numberline {2.7.5}Mix de Comunicação}{5}{subsubsection.2.7.5}%
 \contentsline {subsubsection}{\numberline {2.7.6}Previsão de Vendas}{5}{subsubsection.2.7.6}%
-\contentsline {subsection}{\numberline {2.8}Exequibilidade das Operações}{5}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.8}Exequibilidade das Operações}{6}{subsection.2.8}%
 \contentsline {subsubsection}{\numberline {2.8.1}Processo e Capacidade}{6}{subsubsection.2.8.1}%
 \contentsline {subsubsection}{\numberline {2.8.2}Recursos Humanos}{6}{subsubsection.2.8.2}%
 \contentsline {subsubsection}{\numberline {2.8.3}Localização das Instalações}{6}{subsubsection.2.8.3}%
-\contentsline {subsection}{\numberline {2.9}Impacto Socioeconómico}{6}{subsection.2.9}%
-\contentsline {subsubsection}{\numberline {2.9.1}Emprego Qualificado}{6}{subsubsection.2.9.1}%
-\contentsline {subsubsection}{\numberline {2.9.2}Parcerias Tecnologicas}{7}{subsubsection.2.9.2}%
-\contentsline {subsubsection}{\numberline {2.9.3}Sinergias com Outras Atividades}{7}{subsubsection.2.9.3}%
-\contentsline {subsubsection}{\numberline {2.9.4}Potencial de Crescimento}{7}{subsubsection.2.9.4}%
-\contentsline {section}{\numberline {3}Conclusão}{9}{section.3}%
-\contentsline {section}{Bibliografia}{10}{section.3}%
+\contentsline {subsubsection}{\numberline {2.8.4}Fases de Montagem}{7}{subsubsection.2.8.4}%
+\contentsline {subsection}{\numberline {2.9}Impacto Socioeconómico}{7}{subsection.2.9}%
+\contentsline {subsubsection}{\numberline {2.9.1}Emprego Qualificado}{8}{subsubsection.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.9.2}Parcerias Tecnologicas}{8}{subsubsection.2.9.2}%
+\contentsline {subsubsection}{\numberline {2.9.3}Sinergias com Outras Atividades}{8}{subsubsection.2.9.3}%
+\contentsline {subsubsection}{\numberline {2.9.4}Potencial de Crescimento}{9}{subsubsection.2.9.4}%
+\contentsline {section}{\numberline {3}Conclusão}{10}{section.3}%
+\contentsline {section}{Bibliografia}{11}{section.3}%
