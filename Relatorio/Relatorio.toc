@@ -17,19 +17,19 @@
 \contentsline {subsection}{\numberline {2.7}Exequibilidade do Marketing}{5}{subsection.2.7}%
 \contentsline {subsubsection}{\numberline {2.7.1}Posicionamento}{5}{subsubsection.2.7.1}%
 \contentsline {subsubsection}{\numberline {2.7.2}Mix de Produto}{5}{subsubsection.2.7.2}%
-\contentsline {subsubsection}{\numberline {2.7.3}Mix de Preço}{5}{subsubsection.2.7.3}%
-\contentsline {subsubsection}{\numberline {2.7.4}Mix de Canais de Distribuição}{5}{subsubsection.2.7.4}%
-\contentsline {subsubsection}{\numberline {2.7.5}Mix de Comunicação}{5}{subsubsection.2.7.5}%
-\contentsline {subsubsection}{\numberline {2.7.6}Previsão de Vendas}{5}{subsubsection.2.7.6}%
-\contentsline {subsection}{\numberline {2.8}Exequibilidade das Operações}{6}{subsection.2.8}%
-\contentsline {subsubsection}{\numberline {2.8.1}Processo e Capacidade}{6}{subsubsection.2.8.1}%
-\contentsline {subsubsection}{\numberline {2.8.2}Recursos Humanos}{6}{subsubsection.2.8.2}%
-\contentsline {subsubsection}{\numberline {2.8.3}Localização das Instalações}{6}{subsubsection.2.8.3}%
-\contentsline {subsubsection}{\numberline {2.8.4}Fases de Montagem}{7}{subsubsection.2.8.4}%
-\contentsline {subsection}{\numberline {2.9}Impacto Socioeconómico}{7}{subsection.2.9}%
-\contentsline {subsubsection}{\numberline {2.9.1}Emprego Qualificado}{8}{subsubsection.2.9.1}%
-\contentsline {subsubsection}{\numberline {2.9.2}Parcerias Tecnologicas}{8}{subsubsection.2.9.2}%
-\contentsline {subsubsection}{\numberline {2.9.3}Sinergias com Outras Atividades}{8}{subsubsection.2.9.3}%
-\contentsline {subsubsection}{\numberline {2.9.4}Potencial de Crescimento}{9}{subsubsection.2.9.4}%
-\contentsline {section}{\numberline {3}Conclusão}{10}{section.3}%
-\contentsline {section}{Bibliografia}{11}{section.3}%
+\contentsline {subsubsection}{\numberline {2.7.3}Mix de Preço}{6}{subsubsection.2.7.3}%
+\contentsline {subsubsection}{\numberline {2.7.4}Mix de Canais de Distribuição}{6}{subsubsection.2.7.4}%
+\contentsline {subsubsection}{\numberline {2.7.5}Mix de Comunicação}{6}{subsubsection.2.7.5}%
+\contentsline {subsubsection}{\numberline {2.7.6}Previsão de Vendas}{7}{subsubsection.2.7.6}%
+\contentsline {subsection}{\numberline {2.8}Exequibilidade das Operações}{8}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Processo e Capacidade}{8}{subsubsection.2.8.1}%
+\contentsline {subsubsection}{\numberline {2.8.2}Recursos Humanos}{8}{subsubsection.2.8.2}%
+\contentsline {subsubsection}{\numberline {2.8.3}Localização das Instalações}{8}{subsubsection.2.8.3}%
+\contentsline {subsubsection}{\numberline {2.8.4}Fases de Montagem}{9}{subsubsection.2.8.4}%
+\contentsline {subsection}{\numberline {2.9}Impacto Socioeconómico}{9}{subsection.2.9}%
+\contentsline {subsubsection}{\numberline {2.9.1}Emprego Qualificado}{10}{subsubsection.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.9.2}Parcerias Tecnologicas}{10}{subsubsection.2.9.2}%
+\contentsline {subsubsection}{\numberline {2.9.3}Sinergias com Outras Atividades}{10}{subsubsection.2.9.3}%
+\contentsline {subsubsection}{\numberline {2.9.4}Potencial de Crescimento}{11}{subsubsection.2.9.4}%
+\contentsline {section}{\numberline {3}Conclusão}{12}{section.3}%
+\contentsline {section}{Bibliografia}{13}{section.3}%
