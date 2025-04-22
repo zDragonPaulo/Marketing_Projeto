@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Relatorio"] 1745073477.081 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1745080344.0486 0
+["biber Relatorio"] 1745073477.081 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1745344660.98853 0
   "Recursos/referencias.bib" 1745073223 2428 ea323d4c07f37d9141cc8b16087d03a0 ""
-  "Relatorio.bcf" 1745080343 134294 045a9b6f3c366e72f12afa8dda134e56 "pdflatex"
+  "Relatorio.bcf" 1745344660 134294 045a9b6f3c366e72f12afa8dda134e56 "pdflatex"
   (generated)
   "Relatorio.bbl"
   "Relatorio.blg"
   (rewritten before read)
-["pdflatex"] 1745080342.14165 "d:/Cenas de EI/3ano/ME/New folder/Marketing_Projeto/Relatorio/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1745080344.04936 0
+["pdflatex"] 1745344659.14919 "d:/Cenas de EI/3ano/ME/New folder/Marketing_Projeto/Relatorio/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1745344660.98927 0
   "C:/Users/joao_/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744731354 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/joao_/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1728.pk" 1744731712 71788 1bd5cadd1e518b07667d3878867cd08a ""
   "C:/Users/joao_/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1744731710 25420 f1c14c74405b0417f5ed49dd5f6274ef ""
@@ -209,14 +209,14 @@
   "D:/Cenas de EI/Programas/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "Recursos/IPBejaESTIG.jpg" 1744727850 24524 8256cc09fbb9140893a7ec292a0eb389 ""
   "Recursos/LOGO_IPB.png" 1744727850 70931 8e4fd2cd3676e6d3adc0f137d7334c9f ""
-  "Relatorio.aux" 1745080343 9437 543bd2aa832d0e1444aef6d25197eeea "pdflatex"
+  "Relatorio.aux" 1745344660 9441 be7b05396ca7036fe65a84c6000c0990 "pdflatex"
   "Relatorio.bbl" 1745073479 23927 8b3ba46949fe84db8844a441fc78fd22 "biber Relatorio"
-  "Relatorio.lof" 1745080343 33 e37f84d12b50aa32dade73d7d1c52b61 "pdflatex"
-  "Relatorio.out" 1745080343 5805 00a03192dbcebbd583ae4d274b16e4ff "pdflatex"
-  "Relatorio.run.xml" 1745080343 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
-  "Relatorio.tex" 1745080341 30254 a64fdab93f2c6c6e74ecd7e7be65bb28 ""
-  "Relatorio.toc" 1745080343 3151 216d1cab027369f8a2a2a4c653d3be26 "pdflatex"
-  "d:/Cenas de EI/3ano/ME/New folder/Marketing_Projeto/Relatorio/Relatorio.tex" 1745080341 30254 a64fdab93f2c6c6e74ecd7e7be65bb28 ""
+  "Relatorio.lof" 1745344660 33 e37f84d12b50aa32dade73d7d1c52b61 "pdflatex"
+  "Relatorio.out" 1745344660 5805 00a03192dbcebbd583ae4d274b16e4ff "pdflatex"
+  "Relatorio.run.xml" 1745344660 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
+  "Relatorio.tex" 1745344656 31860 19a7faafc93885649624c4fe598ab866 ""
+  "Relatorio.toc" 1745344660 3153 983a6128520927d12824f1a97b4d32fd "pdflatex"
+  "d:/Cenas de EI/3ano/ME/New folder/Marketing_Projeto/Relatorio/Relatorio.tex" 1745344656 31860 19a7faafc93885649624c4fe598ab866 ""
   (generated)
   "Relatorio.aux"
   "Relatorio.bcf"
