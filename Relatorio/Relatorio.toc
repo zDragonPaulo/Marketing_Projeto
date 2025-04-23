@@ -18,9 +18,9 @@
 \contentsline {subsubsection}{\numberline {2.7.1}Posicionamento}{5}{subsubsection.2.7.1}%
 \contentsline {subsubsection}{\numberline {2.7.2}Mix de Produto}{6}{subsubsection.2.7.2}%
 \contentsline {subsubsection}{\numberline {2.7.3}Mix de Preço}{6}{subsubsection.2.7.3}%
-\contentsline {subsubsection}{\numberline {2.7.4}Mix de Canais de Distribuição}{6}{subsubsection.2.7.4}%
+\contentsline {subsubsection}{\numberline {2.7.4}Mix de Canais de Distribuição}{7}{subsubsection.2.7.4}%
 \contentsline {subsubsection}{\numberline {2.7.5}Mix de Comunicação}{7}{subsubsection.2.7.5}%
-\contentsline {subsubsection}{\numberline {2.7.6}Previsão de Vendas}{7}{subsubsection.2.7.6}%
+\contentsline {subsubsection}{\numberline {2.7.6}Previsão de Vendas}{8}{subsubsection.2.7.6}%
 \contentsline {subsection}{\numberline {2.8}Exequibilidade das Operações}{9}{subsection.2.8}%
 \contentsline {subsubsection}{\numberline {2.8.1}Processo e Capacidade}{9}{subsubsection.2.8.1}%
 \contentsline {subsubsection}{\numberline {2.8.2}Recursos Humanos}{9}{subsubsection.2.8.2}%
