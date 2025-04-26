@@ -31,5 +31,6 @@
 \contentsline {subsubsection}{\numberline {2.9.2}Parcerias Tecnologicas}{11}{subsubsection.2.9.2}%
 \contentsline {subsubsection}{\numberline {2.9.3}Sinergias com Outras Atividades}{11}{subsubsection.2.9.3}%
 \contentsline {subsubsection}{\numberline {2.9.4}Potencial de Crescimento}{12}{subsubsection.2.9.4}%
+\contentsline {subsection}{\numberline {2.10}Equipa de Projeto}{12}{subsection.2.10}%
 \contentsline {section}{\numberline {3}Conclusão}{13}{section.3}%
 \contentsline {section}{Bibliografia}{14}{section.3}%
