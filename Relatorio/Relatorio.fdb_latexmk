@@ -1,12 +1,11 @@
 # Fdb version 4
-["biber Relatorio"] 1746803827.69444 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1746803935.85297 0
-  "Recursos/referencias.bib" 1744903845 2428 ea323d4c07f37d9141cc8b16087d03a0 ""
-  "Relatorio.bcf" 1746803935 133452 a45043c9a0184bfc37e1181bda6641fa "pdflatex"
+["biber Relatorio"] 1746803983.5012 "Relatorio.bcf" "Relatorio.bbl" "Relatorio" 1746804020.08657 2
+  "Relatorio.bcf" 1746804019 133452 a45043c9a0184bfc37e1181bda6641fa "pdflatex"
   (generated)
   "Relatorio.bbl"
   "Relatorio.blg"
   (rewritten before read)
-["pdflatex"] 1746803932.69763 "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatorios-Trabalhos/3ano/2º Semestre/Marketing/Marketing_Projeto/Relatorio/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1746803935.85417 0
+["pdflatex"] 1746804016.90776 "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatorios-Trabalhos/3ano/2º Semestre/Marketing/Marketing_Projeto/Relatorio/Relatorio.tex" "Relatorio.pdf" "Relatorio" 1746804020.08774 0
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746125189 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi1728.pk" 1729788146 71788 fadac5b10a57dfceb3a69ca95451187c ""
   "C:/Users/amant/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1729788150 25420 a2ba52055e72da8a9dca104ed6a96641 ""
@@ -208,20 +207,23 @@
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/amant/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
+  "Recursos/Avaliação.png" 1746801715 39778 606f4a89869c55ea1687c5461f9ed3fb ""
+  "Recursos/CFEV.png" 1746801631 76119 b810ca37f92b3e5b2c83fb29593c9927 ""
+  "Recursos/CMVCM.png" 1746801428 23070 1f10ce641574d1fa4bab4fc07a9e5ed8 ""
   "Recursos/IPBejaESTIG.jpg" 1729007317 24524 8256cc09fbb9140893a7ec292a0eb389 ""
   "Recursos/LOGO_IPB.png" 1729007317 70931 8e4fd2cd3676e6d3adc0f137d7334c9f ""
   "Recursos/RH1.png" 1746801528 37079 e30cdc95fa32d619899aabd31b412e52 ""
   "Recursos/RH2.png" 1746801545 13026 dca361a225b650cfbfff89047bcf18ba ""
   "Recursos/VendasExternas.png" 1746801191 9860 c8bfc6520a0ff324b264d4451dea33ef ""
   "Recursos/VendasNacional.png" 1746801161 9699 51da82ae336006c73a187b91c0f4f425 ""
-  "Relatorio.aux" 1746803935 11682 5055209d58fc59d1a7971e4ab9327a1a "pdflatex"
-  "Relatorio.bbl" 1746803830 21833 e6b6c0b19135780eef99a8614a8bd9f2 "biber Relatorio"
-  "Relatorio.lof" 1746803935 481 fdc76f4ade4203a03d0bebca18313752 "pdflatex"
-  "Relatorio.out" 1746803935 6784 e241e307535dd9704d719f290061a6fc "pdflatex"
-  "Relatorio.run.xml" 1746803935 2410 717c0927f41f216f3cf4bba59bbfc439 "pdflatex"
-  "Relatorio.tex" 1746803925 36907 2d7b95cb621c3738fa3a179317c77a75 ""
-  "Relatorio.toc" 1746803935 3727 695479f24ad9201846ca62da5b2225e3 "pdflatex"
-  "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatorios-Trabalhos/3ano/2º Semestre/Marketing/Marketing_Projeto/Relatorio/Relatorio.tex" 1746803925 36907 2d7b95cb621c3738fa3a179317c77a75 ""
+  "Relatorio.aux" 1746804019 10723 1ba4e44cded11ba37f91fc7334066b39 "pdflatex"
+  "Relatorio.bbl" 1746803985 0 d41d8cd98f00b204e9800998ecf8427e "biber Relatorio"
+  "Relatorio.lof" 1746804019 481 fdc76f4ade4203a03d0bebca18313752 "pdflatex"
+  "Relatorio.out" 1746804019 6680 83f92c05c34186700f73b2866feef6fc "pdflatex"
+  "Relatorio.run.xml" 1746804019 2410 1ac7a8f6181202fea67fcc16d3e05825 "pdflatex"
+  "Relatorio.tex" 1746803982 38101 51fd97081044d97baced74e29493f72b ""
+  "Relatorio.toc" 1746804019 3673 a267a093577609cc7ac60193781c41b8 "pdflatex"
+  "c:/Users/amant/OneDrive - Instituto Politecnico de Beja/Relatorios-Trabalhos/3ano/2º Semestre/Marketing/Marketing_Projeto/Relatorio/Relatorio.tex" 1746803982 38101 51fd97081044d97baced74e29493f72b ""
   (generated)
   "Relatorio.aux"
   "Relatorio.bcf"

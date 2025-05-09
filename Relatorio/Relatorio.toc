@@ -39,4 +39,3 @@
 \contentsline {subsection}{\numberline {3.4}CMVCMC}{15}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Avaliação do Investimento}{15}{subsection.3.5}%
 \contentsline {section}{\numberline {4}Conclusão}{16}{section.4}%
-\contentsline {section}{Bibliografia}{17}{section.4}%
