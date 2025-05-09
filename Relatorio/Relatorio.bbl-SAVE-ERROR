@@ -19,18 +19,51 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{googlehome}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Software que pode ser compatível - Google Home}
+      \field{title}{Google Home}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://home.google.com/welcome/
+      \endverb
+      \verb{url}
+      \verb https://home.google.com/welcome/
+      \endverb
+    \endentry
     \entry{discord}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1fe8fa2b0806a95f5f56a56c9db31d9a}{%
-           family={Jason\bibnamedelima Citron\bibnamedelima &\bibnamedelima Stan\bibnamedelima Vishnevskiy},
-           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim &\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ad8721e808226e696ca783562850b787}{%
+           family={Jason\bibnamedelima Citron\bibnamedelima \&\bibnamedelima Stan\bibnamedelima Vishnevskiy},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
       }
-      \strng{namehash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{fullhash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{bibnamehash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{authorbibnamehash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{authornamehash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{authorfullhash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
+      \strng{namehash}{ad8721e808226e696ca783562850b787}
+      \strng{fullhash}{ad8721e808226e696ca783562850b787}
+      \strng{bibnamehash}{ad8721e808226e696ca783562850b787}
+      \strng{authorbibnamehash}{ad8721e808226e696ca783562850b787}
+      \strng{authornamehash}{ad8721e808226e696ca783562850b787}
+      \strng{authorfullhash}{ad8721e808226e696ca783562850b787}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -52,6 +85,140 @@
       \verb https://discord.com
       \endverb
     \endentry
+    \entry{chatgpt}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ChatGPT}
+      \field{title}{ChatGPT}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://chatgpt.com
+      \endverb
+      \verb{url}
+      \verb https://chatgpt.com
+      \endverb
+    \endentry
+    \entry{smartthings}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3910b1e0ccab19bc46fd9db27cca49c9}{%
+           family={Samsung},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{fullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{bibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorbibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authornamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorfullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Software que pode ser compatível - SmartThings}
+      \field{title}{SmartThings}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.samsung.com/pt/apps/smartthings/
+      \endverb
+      \verb{url}
+      \verb https://www.samsung.com/pt/apps/smartthings/
+      \endverb
+    \endentry
+    \entry{tplink}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a6fc4549378275a7f9c28d65525df68}{%
+           family={TP-Link},
+           familyi={T\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{fullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{bibnamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorbibnamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authornamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorfullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Produto Concorrente - TP-Link}
+      \field{title}{TP-Link}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
+      \endverb
+      \verb{url}
+      \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
+      \endverb
+    \endentry
+    \entry{kaizen}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{O que é a filosofia Kaizen?}
+      \field{title}{Kaizen}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pt.wikipedia.org/wiki/Kaizen
+      \endverb
+      \verb{url}
+      \verb https://pt.wikipedia.org/wiki/Kaizen
+      \endverb
+    \endentry
     \entry{SCRUM}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
@@ -64,8 +231,10 @@
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -83,22 +252,88 @@
       \endverb
       \verb{url}
       \verb https://en.wikipedia.org/wiki/Scrum_(software_development)
+      \endverb
+    \endentry
+    \entry{xiaomi}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=516581a2ce920b9bc16a9c5004a023b8}{%
+           family={Xiaomi},
+           familyi={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{fullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{bibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorbibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authornamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorfullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Produto Concorrente - Xiaomi}
+      \field{title}{Xiaomi}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mi.com/global/product/xiaomi-smart-plug-2-wi-fi/
+      \endverb
+      \verb{url}
+      \verb https://www.mi.com/global/product/xiaomi-smart-plug-2-wi-fi/
       \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{googlehome}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Software que pode ser compatível - Google Home}
+      \field{title}{Google Home}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://home.google.com/welcome/
+      \endverb
+      \verb{url}
+      \verb https://home.google.com/welcome/
+      \endverb
+    \endentry
     \entry{discord}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1fe8fa2b0806a95f5f56a56c9db31d9a}{%
-           family={Jason\bibnamedelima Citron\bibnamedelima &\bibnamedelima Stan\bibnamedelima Vishnevskiy},
-           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim &\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ad8721e808226e696ca783562850b787}{%
+           family={Jason\bibnamedelima Citron\bibnamedelima \&\bibnamedelima Stan\bibnamedelima Vishnevskiy},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
       }
-      \strng{namehash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{fullhash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{bibnamehash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{authorbibnamehash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{authornamehash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
-      \strng{authorfullhash}{1fe8fa2b0806a95f5f56a56c9db31d9a}
+      \strng{namehash}{ad8721e808226e696ca783562850b787}
+      \strng{fullhash}{ad8721e808226e696ca783562850b787}
+      \strng{bibnamehash}{ad8721e808226e696ca783562850b787}
+      \strng{authorbibnamehash}{ad8721e808226e696ca783562850b787}
+      \strng{authornamehash}{ad8721e808226e696ca783562850b787}
+      \strng{authorfullhash}{ad8721e808226e696ca783562850b787}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -120,6 +355,140 @@
       \verb https://discord.com
       \endverb
     \endentry
+    \entry{chatgpt}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
+           family={OpenAI},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ChatGPT}
+      \field{title}{ChatGPT}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://chatgpt.com
+      \endverb
+      \verb{url}
+      \verb https://chatgpt.com
+      \endverb
+    \endentry
+    \entry{smartthings}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3910b1e0ccab19bc46fd9db27cca49c9}{%
+           family={Samsung},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{fullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{bibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorbibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authornamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorfullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Software que pode ser compatível - SmartThings}
+      \field{title}{SmartThings}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.samsung.com/pt/apps/smartthings/
+      \endverb
+      \verb{url}
+      \verb https://www.samsung.com/pt/apps/smartthings/
+      \endverb
+    \endentry
+    \entry{tplink}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a6fc4549378275a7f9c28d65525df68}{%
+           family={TP-Link},
+           familyi={T\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{fullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{bibnamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorbibnamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authornamehash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorfullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Produto Concorrente - TP-Link}
+      \field{title}{TP-Link}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
+      \endverb
+      \verb{url}
+      \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
+      \endverb
+    \endentry
+    \entry{kaizen}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{O que é a filosofia Kaizen?}
+      \field{title}{Kaizen}
+      \field{urlday}{17}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pt.wikipedia.org/wiki/Kaizen
+      \endverb
+      \verb{url}
+      \verb https://pt.wikipedia.org/wiki/Kaizen
+      \endverb
+    \endentry
     \entry{SCRUM}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
@@ -132,8 +501,10 @@
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -151,6 +522,39 @@
       \endverb
       \verb{url}
       \verb https://en.wikipedia.org/wiki/Scrum_(software_development)
+      \endverb
+    \endentry
+    \entry{xiaomi}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=516581a2ce920b9bc16a9c5004a023b8}{%
+           family={Xiaomi},
+           familyi={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{fullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{bibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorbibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authornamehash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorfullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Exemplo de Produto Concorrente - Xiaomi}
+      \field{title}{Xiaomi}
+      \field{urlday}{15}
+      \field{urlmonth}{4}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mi.com/global/product/xiaomi-smart-plug-2-wi-fi/
+      \endverb
+      \verb{url}
+      \verb https://www.mi.com/global/product/xiaomi-smart-plug-2-wi-fi/
       \endverb
     \endentry
   \enddatalist
