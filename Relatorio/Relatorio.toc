@@ -32,5 +32,11 @@
 \contentsline {subsubsection}{\numberline {2.9.3}Sinergias com Outras Atividades}{11}{subsubsection.2.9.3}%
 \contentsline {subsubsection}{\numberline {2.9.4}Potencial de Crescimento}{12}{subsubsection.2.9.4}%
 \contentsline {subsection}{\numberline {2.10}Equipa de Projeto}{12}{subsection.2.10}%
-\contentsline {section}{\numberline {3}Conclusão}{13}{section.3}%
-\contentsline {section}{Bibliografia}{14}{section.3}%
+\contentsline {section}{\numberline {3}Plano Financeiro}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Vendas}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Recursos Humanos}{13}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Custos Fixos e Variáveis}{13}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}CMVCMC}{13}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Avaliação do Investimento}{13}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Conclusão}{14}{section.4}%
+\contentsline {section}{Bibliografia}{15}{section.4}%
