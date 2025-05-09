@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{apa/apasortcite//global/global}
-    \entry{googlehome}{online}{}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{googlehome}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
            family={Google},
@@ -27,10 +27,12 @@
       }
       \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhashraw}{8b36e9207c24c76e6719268e49201d94}
       \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhashraw}{8b36e9207c24c76e6719268e49201d94}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -52,7 +54,7 @@
       \verb https://home.google.com/welcome/
       \endverb
     \endentry
-    \entry{discord}{online}{}
+    \entry{discord}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ad8721e808226e696ca783562850b787}{%
            family={Jason\bibnamedelima Citron\bibnamedelima \&\bibnamedelima Stan\bibnamedelima Vishnevskiy},
@@ -60,10 +62,12 @@
       }
       \strng{namehash}{ad8721e808226e696ca783562850b787}
       \strng{fullhash}{ad8721e808226e696ca783562850b787}
+      \strng{fullhashraw}{ad8721e808226e696ca783562850b787}
       \strng{bibnamehash}{ad8721e808226e696ca783562850b787}
       \strng{authorbibnamehash}{ad8721e808226e696ca783562850b787}
       \strng{authornamehash}{ad8721e808226e696ca783562850b787}
       \strng{authorfullhash}{ad8721e808226e696ca783562850b787}
+      \strng{authorfullhashraw}{ad8721e808226e696ca783562850b787}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -85,7 +89,7 @@
       \verb https://discord.com
       \endverb
     \endentry
-    \entry{chatgpt}{online}{}
+    \entry{chatgpt}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
            family={OpenAI},
@@ -93,10 +97,12 @@
       }
       \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
       \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhashraw}{0523b13262b12c215d8009938f5c14f1}
       \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
       \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
       \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
       \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhashraw}{0523b13262b12c215d8009938f5c14f1}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -118,7 +124,7 @@
       \verb https://chatgpt.com
       \endverb
     \endentry
-    \entry{smartthings}{online}{}
+    \entry{smartthings}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3910b1e0ccab19bc46fd9db27cca49c9}{%
            family={Samsung},
@@ -126,10 +132,12 @@
       }
       \strng{namehash}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{fullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{fullhashraw}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{bibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{authorbibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{authornamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{authorfullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorfullhashraw}{3910b1e0ccab19bc46fd9db27cca49c9}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -151,7 +159,7 @@
       \verb https://www.samsung.com/pt/apps/smartthings/
       \endverb
     \endentry
-    \entry{tplink}{online}{}
+    \entry{tplink}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a6fc4549378275a7f9c28d65525df68}{%
            family={TP-Link},
@@ -159,10 +167,12 @@
       }
       \strng{namehash}{2a6fc4549378275a7f9c28d65525df68}
       \strng{fullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{fullhashraw}{2a6fc4549378275a7f9c28d65525df68}
       \strng{bibnamehash}{2a6fc4549378275a7f9c28d65525df68}
       \strng{authorbibnamehash}{2a6fc4549378275a7f9c28d65525df68}
       \strng{authornamehash}{2a6fc4549378275a7f9c28d65525df68}
       \strng{authorfullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorfullhashraw}{2a6fc4549378275a7f9c28d65525df68}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
@@ -184,7 +194,7 @@
       \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
       \endverb
     \endentry
-    \entry{kaizen}{online}{}
+    \entry{kaizen}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
@@ -192,10 +202,12 @@
       }
       \strng{namehash}{9c677286866aad38f8e9b660f5411814}
       \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
       \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
       \field{extraname}{1}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
@@ -219,7 +231,7 @@
       \verb https://pt.wikipedia.org/wiki/Kaizen
       \endverb
     \endentry
-    \entry{SCRUM}{online}{}
+    \entry{SCRUM}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
@@ -227,10 +239,12 @@
       }
       \strng{namehash}{9c677286866aad38f8e9b660f5411814}
       \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
       \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
       \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
@@ -254,7 +268,7 @@
       \verb https://en.wikipedia.org/wiki/Scrum_(software_development)
       \endverb
     \endentry
-    \entry{xiaomi}{online}{}
+    \entry{xiaomi}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=516581a2ce920b9bc16a9c5004a023b8}{%
            family={Xiaomi},
@@ -262,10 +276,12 @@
       }
       \strng{namehash}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{fullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{fullhashraw}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{bibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{authorbibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{authornamehash}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{authorfullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorfullhashraw}{516581a2ce920b9bc16a9c5004a023b8}
       \field{sortinit}{X}
       \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
       \field{extradatescope}{labelyear}
@@ -288,8 +304,8 @@
       \endverb
     \endentry
   \enddatalist
-  \datalist[entry]{apa/global//global/global}
-    \entry{googlehome}{online}{}
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{googlehome}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
            family={Google},
@@ -297,10 +313,12 @@
       }
       \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhashraw}{8b36e9207c24c76e6719268e49201d94}
       \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
       \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhashraw}{8b36e9207c24c76e6719268e49201d94}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -322,7 +340,7 @@
       \verb https://home.google.com/welcome/
       \endverb
     \endentry
-    \entry{discord}{online}{}
+    \entry{discord}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ad8721e808226e696ca783562850b787}{%
            family={Jason\bibnamedelima Citron\bibnamedelima \&\bibnamedelima Stan\bibnamedelima Vishnevskiy},
@@ -330,10 +348,12 @@
       }
       \strng{namehash}{ad8721e808226e696ca783562850b787}
       \strng{fullhash}{ad8721e808226e696ca783562850b787}
+      \strng{fullhashraw}{ad8721e808226e696ca783562850b787}
       \strng{bibnamehash}{ad8721e808226e696ca783562850b787}
       \strng{authorbibnamehash}{ad8721e808226e696ca783562850b787}
       \strng{authornamehash}{ad8721e808226e696ca783562850b787}
       \strng{authorfullhash}{ad8721e808226e696ca783562850b787}
+      \strng{authorfullhashraw}{ad8721e808226e696ca783562850b787}
       \field{sortinit}{J}
       \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
       \field{extradatescope}{labelyear}
@@ -355,7 +375,7 @@
       \verb https://discord.com
       \endverb
     \endentry
-    \entry{chatgpt}{online}{}
+    \entry{chatgpt}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0523b13262b12c215d8009938f5c14f1}{%
            family={OpenAI},
@@ -363,10 +383,12 @@
       }
       \strng{namehash}{0523b13262b12c215d8009938f5c14f1}
       \strng{fullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{fullhashraw}{0523b13262b12c215d8009938f5c14f1}
       \strng{bibnamehash}{0523b13262b12c215d8009938f5c14f1}
       \strng{authorbibnamehash}{0523b13262b12c215d8009938f5c14f1}
       \strng{authornamehash}{0523b13262b12c215d8009938f5c14f1}
       \strng{authorfullhash}{0523b13262b12c215d8009938f5c14f1}
+      \strng{authorfullhashraw}{0523b13262b12c215d8009938f5c14f1}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -388,7 +410,7 @@
       \verb https://chatgpt.com
       \endverb
     \endentry
-    \entry{smartthings}{online}{}
+    \entry{smartthings}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3910b1e0ccab19bc46fd9db27cca49c9}{%
            family={Samsung},
@@ -396,10 +418,12 @@
       }
       \strng{namehash}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{fullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{fullhashraw}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{bibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{authorbibnamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{authornamehash}{3910b1e0ccab19bc46fd9db27cca49c9}
       \strng{authorfullhash}{3910b1e0ccab19bc46fd9db27cca49c9}
+      \strng{authorfullhashraw}{3910b1e0ccab19bc46fd9db27cca49c9}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -421,7 +445,7 @@
       \verb https://www.samsung.com/pt/apps/smartthings/
       \endverb
     \endentry
-    \entry{tplink}{online}{}
+    \entry{tplink}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a6fc4549378275a7f9c28d65525df68}{%
            family={TP-Link},
@@ -429,10 +453,12 @@
       }
       \strng{namehash}{2a6fc4549378275a7f9c28d65525df68}
       \strng{fullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{fullhashraw}{2a6fc4549378275a7f9c28d65525df68}
       \strng{bibnamehash}{2a6fc4549378275a7f9c28d65525df68}
       \strng{authorbibnamehash}{2a6fc4549378275a7f9c28d65525df68}
       \strng{authornamehash}{2a6fc4549378275a7f9c28d65525df68}
       \strng{authorfullhash}{2a6fc4549378275a7f9c28d65525df68}
+      \strng{authorfullhashraw}{2a6fc4549378275a7f9c28d65525df68}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{extradatescope}{labelyear}
@@ -454,7 +480,7 @@
       \verb https://www.tp-link.com/pt/home-networking/smart-plug/tapo-p110m/
       \endverb
     \endentry
-    \entry{kaizen}{online}{}
+    \entry{kaizen}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
@@ -462,10 +488,12 @@
       }
       \strng{namehash}{9c677286866aad38f8e9b660f5411814}
       \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
       \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
       \field{extraname}{1}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
@@ -489,7 +517,7 @@
       \verb https://pt.wikipedia.org/wiki/Kaizen
       \endverb
     \endentry
-    \entry{SCRUM}{online}{}
+    \entry{SCRUM}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
@@ -497,10 +525,12 @@
       }
       \strng{namehash}{9c677286866aad38f8e9b660f5411814}
       \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
       \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
       \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
@@ -524,7 +554,7 @@
       \verb https://en.wikipedia.org/wiki/Scrum_(software_development)
       \endverb
     \endentry
-    \entry{xiaomi}{online}{}
+    \entry{xiaomi}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=516581a2ce920b9bc16a9c5004a023b8}{%
            family={Xiaomi},
@@ -532,10 +562,12 @@
       }
       \strng{namehash}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{fullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{fullhashraw}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{bibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{authorbibnamehash}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{authornamehash}{516581a2ce920b9bc16a9c5004a023b8}
       \strng{authorfullhash}{516581a2ce920b9bc16a9c5004a023b8}
+      \strng{authorfullhashraw}{516581a2ce920b9bc16a9c5004a023b8}
       \field{sortinit}{X}
       \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
       \field{extradatescope}{labelyear}
