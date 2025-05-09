@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.24)  9 MAY 2025 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.10.24)  9 MAY 2025 16:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -978,12 +978,12 @@ Package hyperref Info: Link coloring OFF on input line 125.
 \@outlinefile=\write5
 \openout5 = `Relatorio.out'.
 
-<Recursos/LOGO_IPB.png, id=166, 646.415pt x 499.8675pt>
+<Recursos/LOGO_IPB.png, id=169, 646.415pt x 499.8675pt>
 File: Recursos/LOGO_IPB.png Graphic file (type png)
 <use Recursos/LOGO_IPB.png>
 Package pdftex.def Info: Recursos/LOGO_IPB.png  used on input line 131.
 (pdftex.def)             Requested size: 170.71652pt x 132.01424pt.
-<Recursos/IPBejaESTIG.jpg, id=167, 501.875pt x 301.125pt>
+<Recursos/IPBejaESTIG.jpg, id=170, 501.875pt x 301.125pt>
 File: Recursos/IPBejaESTIG.jpg Graphic file (type jpg)
 <use Recursos/IPBejaESTIG.jpg>
 Package pdftex.def Info: Recursos/IPBejaESTIG.jpg  used on input line 131.
@@ -1031,112 +1031,78 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has be
 <to be read again> 
                    \relax 
 l.167 \newpage
-               [4]
+               [4] [1] [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 268--273
 
-LaTeX Warning: Citation 'SCRUM' on page 1 undefined on input line 182.
-
-
-LaTeX Warning: Citation 'discord' on page 1 undefined on input line 183.
+ []
 
 
-LaTeX Warning: Citation 'chatgpt' on page 1 undefined on input line 199.
+Underfull \hbox (badness 10000) in paragraph at lines 268--273
 
-[1] [2] [3]
+ []
 
-LaTeX Warning: Citation 'tplink' on page 4 undefined on input line 257.
-
-
-LaTeX Warning: Citation 'xiaomi' on page 4 undefined on input line 257.
-
-[4]
-
-LaTeX Warning: Citation 'smartthings' on page 5 undefined on input line 285.
-
-
-LaTeX Warning: Citation 'googlehome' on page 5 undefined on input line 286.
-
-[5] [6] [7] [8]
-
-LaTeX Warning: Citation 'kaizen' on page 9 undefined on input line 366.
-
-[9] [10]
-
-LaTeX Warning: Citation 'smartthings' on page 11 undefined on input line 411.
-
-[11] [12]
-<Recursos/VendasNacional.png, id=303, 600.74437pt x 67.0003pt>
+[4] [5] [6] [7] [8] [9] [10] [11] [12]
+<Recursos/VendasNacional.png, id=330, 600.74437pt x 67.0003pt>
 File: Recursos/VendasNacional.png Graphic file (type png)
 <use Recursos/VendasNacional.png>
-Package pdftex.def Info: Recursos/VendasNacional.png  used on input line 463.
+Package pdftex.def Info: Recursos/VendasNacional.png  used on input line 464.
 (pdftex.def)             Requested size: 334.60422pt x 37.3185pt.
-<Recursos/VendasExternas.png, id=306, 599.99156pt x 67.75313pt>
+<Recursos/VendasExternas.png, id=333, 599.99156pt x 67.75313pt>
 File: Recursos/VendasExternas.png Graphic file (type png)
 <use Recursos/VendasExternas.png>
-Package pdftex.def Info: Recursos/VendasExternas.png  used on input line 473.
+Package pdftex.def Info: Recursos/VendasExternas.png  used on input line 474.
 (pdftex.def)             Requested size: 334.60422pt x 37.78537pt.
-<Recursos/RH1.png, id=308, 588.69937pt x 297.36093pt>
+<Recursos/RH1.png, id=335, 588.69937pt x 297.36093pt>
 File: Recursos/RH1.png Graphic file (type png)
 <use Recursos/RH1.png>
-Package pdftex.def Info: Recursos/RH1.png  used on input line 490.
+Package pdftex.def Info: Recursos/RH1.png  used on input line 491.
 (pdftex.def)             Requested size: 334.60422pt x 169.01653pt.
  [13 <./Recursos/VendasNacional.png> <./Recursos/VendasExternas.png>]
-<Recursos/RH2.png, id=317, 590.205pt x 152.82094pt>
+<Recursos/RH2.png, id=344, 590.205pt x 152.82094pt>
 File: Recursos/RH2.png Graphic file (type png)
 <use Recursos/RH2.png>
-Package pdftex.def Info: Recursos/RH2.png  used on input line 499.
+Package pdftex.def Info: Recursos/RH2.png  used on input line 500.
 (pdftex.def)             Requested size: 334.60422pt x 86.64012pt.
  [14 <./Recursos/RH1.png> <./Recursos/RH2.png>]
-<Recursos/CFEV.png, id=324, 681.29532pt x 412.54124pt>
+<Recursos/CFEV.png, id=352, 681.29532pt x 412.54124pt>
 File: Recursos/CFEV.png Graphic file (type png)
 <use Recursos/CFEV.png>
-Package pdftex.def Info: Recursos/CFEV.png  used on input line 515.
-(pdftex.def)             Requested size: 170.71652pt x 103.37425pt.
-<Recursos/CMVCM.png, id=325, 824.07875pt x 196.735pt>
+Package pdftex.def Info: Recursos/CFEV.png  used on input line 517.
+(pdftex.def)             Requested size: 400.26907pt x 242.37115pt.
+ [15 <./Recursos/CFEV.png>]
+<Recursos/CMVCM.png, id=359, 824.07875pt x 196.735pt>
 File: Recursos/CMVCM.png Graphic file (type png)
 <use Recursos/CMVCM.png>
-Package pdftex.def Info: Recursos/CMVCM.png  used on input line 524.
-(pdftex.def)             Requested size: 170.71652pt x 40.7542pt.
-<Recursos/Avaliação.png, id=326, 711.4078pt x 296.60812pt>
+Package pdftex.def Info: Recursos/CMVCM.png  used on input line 530.
+(pdftex.def)             Requested size: 334.60422pt x 79.88135pt.
+<Recursos/Avaliação.png, id=361, 711.4078pt x 296.60812pt>
 File: Recursos/Avaliação.png Graphic file (type png)
 <use Recursos/Avaliação.png>
-Package pdftex.def Info: Recursos/Avaliação.png  used on input line 533.
-(pdftex.def)             Requested size: 170.71652pt x 71.17834pt.
- [15 <./Recursos/CFEV.png> <./Recursos/CMVCM.png> <./Recursos/Avaliação.png>] [16]
-
-LaTeX Warning: Empty bibliography on input line 551.
-
-(Relatorio.aux)
+Package pdftex.def Info: Recursos/Avaliação.png  used on input line 542.
+(pdftex.def)             Requested size: 334.60422pt x 139.50992pt.
+ [16 <./Recursos/CMVCM.png> <./Recursos/Avaliação.png>] [17] [18] (Relatorio.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `Relatorio.out' has not changed.
-(rerunfilecheck)             Checksum: 83F92C05C34186700F73B2866FEEF6FC;6680.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Relatorio
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: E241E307535DD9704D719F290061A6FC;6784.
 Package logreq Info: Writing requests to 'Relatorio.run.xml'.
 \openout1 = `Relatorio.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36514 strings out of 474486
- 734006 string characters out of 5743754
+ 36608 strings out of 474486
+ 736480 string characters out of 5743754
  1937542 words of memory out of 5000000
- 58226 multiletter control sequences out of 15000+600000
+ 58309 multiletter control sequences out of 15000+600000
  569087 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,7n,107p,817b,2805s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1728.pk> <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx2488.pk> <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\amant\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
-Output written on Relatorio.pdf (22 pages, 403330 bytes).
+Output written on Relatorio.pdf (24 pages, 416443 bytes).
 PDF statistics:
- 720 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
- 378 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 779 PDF objects out of 1000 (max. 8388607)
+ 82 named destinations out of 1000 (max. 500000)
+ 386 words of extra memory for PDF output out of 10000 (max. 10000000)
 
