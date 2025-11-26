@@ -79,3 +79,7 @@ Project advisor:
 
 - The report was prepared in Portuguese and includes market, operational, and financial analysis. The LaTeX source uses biblatex with biber.
 - This project was awarded 1st Prize at the PoliEmpreende contest hosted by the Instituto Politécnico de Beja — a recognition of the concept's innovation and market potential.
+
+## License
+
+- This repository is licensed under the GNU General Public License v3.0 (GPL-3.0).
